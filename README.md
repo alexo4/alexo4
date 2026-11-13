@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Alex
 
-<!--
-**alexo4/alexo4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate from the University of Nottingham (BSc, 2:1), including a year at the Malaysia campus. I work on machine learning, computer vision and reinforcement learning, and I'm looking for graduate software engineering, ML or data roles in London, Sydney or Hong Kong.
 
-Here are some ideas to get you started:
+## What I've been building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Dodgeball MARL](https://github.com/alexo4/Designing-Intelligent-Agents-CW)**: a multi-agent RL environment with DQN and PPO agents, plus controlled experiments on opponent mixing
+- **[Flower segmentation](https://github.com/alexo4/MATLAB-Flower-Classification-and-Segmentation)**: a small inception-module CNN for flower classification and segmentation (MATLAB)
+- **Dodgeball-CV**: YOLO-based detection and tracking that turns match footage into player and ball stats (in progress, private; happy to walk through it)
+
+**Tech:** Python, PyTorch, Java, C++, MATLAB, Pandas, scikit-learn
+
+[LinkedIn](https://www.linkedin.com/in/alextocarroll/)
