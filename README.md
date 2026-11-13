@@ -7,8 +7,7 @@ Computer Science graduate from the University of Nottingham (BSc, 2:1), includin
 - **[Dodgeball MARL](https://github.com/alexo4/dodgeball-marl)**: a multi-agent RL environment with DQN and PPO agents, plus controlled experiments on opponent mixing
 - **[Flower segmentation](https://github.com/alexo4/MATLAB-Flower-Classification-and-Segmentation)**: a small inception-module CNN for flower classification and segmentation (MATLAB)
 - **[Movie recommender chatbot](https://github.com/alexo4/movie-recommender-chatbot)**: a command-line chatbot with a watch list, intent matching and item-based recommendations (Python)
-- **[Waste collection routing](https://github.com/alexo4/waste-collection-routing)**: compares fixed, greedy (Dijkstra) and budgeted (Floyd–Warshall) collection routes by cost and distance (C++)
-- **[Inventory ledger](https://github.com/alexo4/inventory-ledger-cpp)**: a hash-chained inventory and transport tracker using OOP and polymorphism (C++)
+- **C++ coursework**: a [waste collection route planner](https://github.com/alexo4/waste-collection-routing) comparing Dijkstra and Floyd–Warshall routes, and a [hash-chained inventory ledger](https://github.com/alexo4/inventory-ledger-cpp) built around OOP and polymorphism
 - **Dodgeball-CV**: YOLO-based detection and tracking that turns match footage into player and ball stats (in progress, private; happy to walk through it)
 
 **Tech:** Python, Java, C++, PyTorch, MATLAB, Pandas, scikit-learn
