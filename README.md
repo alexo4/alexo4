@@ -4,7 +4,7 @@ Computer Science graduate from the University of Nottingham (BSc, 2:1), includin
 
 ## What I've been building
 
-- **[Dodgeball MARL](https://github.com/alexo4/Designing-Intelligent-Agents-CW)**: a multi-agent RL environment with DQN and PPO agents, plus controlled experiments on opponent mixing
+- **[Dodgeball MARL](https://github.com/alexo4/dodgeball-marl)**: a multi-agent RL environment with DQN and PPO agents, plus controlled experiments on opponent mixing
 - **[Flower segmentation](https://github.com/alexo4/MATLAB-Flower-Classification-and-Segmentation)**: a small inception-module CNN for flower classification and segmentation (MATLAB)
 - **Dodgeball-CV**: YOLO-based detection and tracking that turns match footage into player and ball stats (in progress, private; happy to walk through it)
 
